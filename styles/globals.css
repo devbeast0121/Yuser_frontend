@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'LatoBlack';
+    src: url("../public/fonts/Lato-Black.woff");
+}
+        
+@font-face {
+    font-family: 'LatoBlackItalic';
+    src: url("../public/fonts/Lato-BlackItalic.woff");
+}
+
+@font-face {
+  font-family: 'LatoBold';
+  src: url("../public/fonts/Lato-Bold.woff");
+}
+      
+@font-face {
+  font-family: 'LatoBoldItalic';
+  src: url("../public/fonts/Lato-BoldItalic.woff");
+}
+        
+@font-face {
+    font-family: 'LatoItalic';
+    src: url("../public/fonts/Lato-Italic.woff");
+}
+        
+@font-face {
+    font-family: 'LatoRegular';
+    src: url("../public/fonts/Lato-Regular.woff");
+}
+
+@font-face {
+  font-family: 'LatoLight';
+  src: url("../public/fonts/Lato-Light.woff");
+}
+      
+@font-face {
+  font-family: 'LatoLightItalic';
+  src: url("../public/fonts/Lato-LightItalic.woff");
+}
+
+@font-face {
+  font-family: 'LatoThin';
+  src: url("../public/fonts/Lato-Thin.woff");
+}
+      
+@font-face {
+  font-family: 'LatoThinItalic';
+  src: url("../public/fonts/Lato-ThinItalic.woff");
+}
+
+@font-face {
+  font-family: 'RubikRegular';
+  src: url("../public/fonts/rubik-v21-latin-regular.woff");
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url("../public/fonts/rubik-v21-latin-800.woff");
+}
+
+@font-face {
+  font-family: 'BrunoAce';
+  src: url("../public/fonts/BrunoAce-Regular.woff");
+}
+
+.modal-color {
+  @apply bg-[#191919];
+}
+
+.vertical-center {
+  @apply flex flex-col justify-center;
+}
+
+.theme-light {
+  --container: #ffffff;
+  --containerSecondary: #eeeeee;
+  --containerHover: #f5f5f5;
+  --containerOpposite: #000000;
+  --textPrimary: #151515;
+  --textSecondary: #222222;
+  --borderColor: #dddddd;
+  --placeholder: #bbbbbb;
+  --inactiveColor: #bbbbbb;
+  --oppositeInactiveColor: #555555;
+  --iconColor: #000000;
+  --hoverMenu: #f5f5f5;
+  --greyButton: #eeeeee;
+}
+
+.theme-dark {
+  --container: #000000;
+  --containerSecondary: #222222;
+  --containerHover: #151515;
+  --containerOpposite: #ffffff;
+  --textPrimary: #ffffff;
+  --textSecondary: #f5f5f5;
+  --borderColor: #333333;
+  --placeholder: #bbbbbb;
+  --inactiveColor: #555555;
+  --oppositeInactiveColor: #bbbbbb;
+  --iconColor: #ffffff;
+  --hoverMenu: #222222;
+  --greyButton: #333333;
+}
+
+[data-rk] .ju367v1o {
+  width: 100% !important;
+}
+
+/* [data-rk] .ju367v1n {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+} */
+
+.main-menu-content-box {
+  justify-content: space-between;
+}
+
+.main-menu-content-box .menu-connect-button {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m div.iekbcc0.ju367v7z.ju367v68.ju367v6t.ju367v7e > div.iekbcc0.ju367va.ju367v10 {
+  width: 100% !important;
+  background: #222222;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m > div.iekbcc0.ju367v7z.ju367v68.ju367v6t.ju367v7e {
+  width: 100% !important;
+  background: #222222;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div > div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m {
+  background: #222222;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div > div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m {
+  border: none;
+}
+
+
+div[aria-labelledby*="rk_account_modal_title"] div div div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m div.iekbcc0.ju367v7z.ju367v68.ju367v6t.ju367v7e > div.iekbcc0.ju367va.ju367v10 > div {
+  flex-direction: column;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m div.iekbcc0.ju367v7z.ju367v68.ju367v6t.ju367v7e > div.iekbcc0.ju367va.ju367v10 > div > div:nth-child(2) > button {
+  background: #333333;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div div div.iekbcc0._1ckjpok1.ju367vb0.ju367vdl.ju367vp.ju367vt.ju367vv.ju367vef.ju367va.ju367v10.ju367v67.ju367v8m div.iekbcc0.ju367v7z.ju367v68.ju367v6t.ju367v7e > div.iekbcc0.ju367va.ju367v10 > div > div:nth-child(2) > button * {
+  color: white;
+}
+
+
+div[aria-labelledby*="rk_account_modal_title"] div.iekbcc0[style*="right: 16px;"] {
+  right: 8px !important;
+  top: 8px !important;
+}
+
+div[aria-labelledby*="rk_connect_title"] div[style*="max-height: 504px;"] {
+  width: 100%;
+}
+
+
+div[aria-labelledby*="rk_account_modal_title"] div.iekbcc0[style*="right: 16px;"] > button {
+  color: white;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div.iekbcc0[style*="text-align: center;"] div:nth-child(3) {
+  align-items: center;
+  color: white;
+}
+
+div[aria-labelledby*="rk_account_modal_title"] div.iekbcc0[style*="text-align: center;"] div:nth-child(3) * {
+  color: white;
+}
+
+
+.menu-connect-button .iekbcc0.ju367va.ju367v1n > button { 
+  background: #333333;
+  color: white;
+}
+
+button[data-testid*="rk-account-button"] div:nth-child(2) {
+  background: #222222;
+  color: white;
+  border: none;
+}
+
+.buy-nft-button-box > div:first-child {
+  flex: 1;
+}
+
+div[style="max-height: 504px;"] div:nth-child(2) {
+  display: inline-block;
+}
+
+.buy-nft-button-box  button {
+  width: 100%;
+}
+
+.wallet-modal-button-container button {
+  width: 100%;
+}

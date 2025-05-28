@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.563" height="23.501" viewBox="0 0 31.563 23.501">
+  <g id="contactless-card" transform="translate(-0.999 -7.999)">
+    <g id="Group_9072" data-name="Group 9072" transform="translate(1.999 8.999)">
+      <line id="Line_753" data-name="Line 753" x2="10" transform="translate(5.002 16)" fill="none" stroke="#191919" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_754" data-name="Line 754" x2="4" transform="translate(20.002 16)" fill="none" stroke="#191919" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_7810" data-name="Path 7810" d="M29.546,30.5H4.015A1.979,1.979,0,0,1,2,28.484V11.015A1.979,1.979,0,0,1,4.015,9H29.546a1.979,1.979,0,0,1,2.016,2.016V28.484A1.979,1.979,0,0,1,29.546,30.5Z" transform="translate(-1.999 -8.999)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_7811" data-name="Path 7811" d="M31.189,21.822a2.642,2.642,0,0,0,0-3.214" transform="translate(-11.577 -12.152)" fill="none" stroke="#191919" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_7812" data-name="Path 7812" d="M35.991,23.06a6.68,6.68,0,0,0,0-8.053" transform="translate(-13.153 -10.971)" fill="none" stroke="#191919" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Ellipse_847" data-name="Ellipse 847" cx="1" cy="1" r="1" transform="translate(15.002 7)" fill="#1a1a1a" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect id="Rectangle_1075" data-name="Rectangle 1075" width="5" height="4" transform="translate(5.002 5)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

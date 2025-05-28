@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <g id="shopping-cart" transform="translate(0 -1)">
+    <g id="Сгруппировать_8458" data-name="Сгруппировать 8458">
+      <circle id="Эллипс_773" data-name="Эллипс 773" cx="1" cy="1" r="1" transform="translate(5 21)" fill="#fff"/>
+      <circle id="Эллипс_774" data-name="Эллипс 774" cx="1" cy="1" r="1" transform="translate(19 21)" fill="#fff"/>
+      <circle id="Эллипс_775" data-name="Эллипс 775" cx="1" cy="1" r="1" transform="translate(5 21)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Эллипс_776" data-name="Эллипс 776" cx="1" cy="1" r="1" transform="translate(19 21)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Контур_6693" data-name="Контур 6693" d="M4.8,7H22L20,17H6L4,2H1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

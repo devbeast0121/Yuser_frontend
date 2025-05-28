@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="button-pause" transform="translate(-1 -1)">
+    <g id="Group_8315" data-name="Group 8315">
+      <path id="Path_6413" data-name="Path 6413" d="M7,1H2A1,1,0,0,0,1,2V22a1,1,0,0,0,1,1H7a1,1,0,0,0,1-1V2A1,1,0,0,0,7,1Z" fill="#fff"/>
+      <path id="Path_6414" data-name="Path 6414" d="M22,1H17a1,1,0,0,0-1,1V22a1,1,0,0,0,1,1h5a1,1,0,0,0,1-1V2A1,1,0,0,0,22,1Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+/* @font-face {
+    font-family: 'La';
+    src: url('your-font.eot');
+    src: url('your-font.eot?#iefix') format('embedded-opentype'),
+      url('your-font.woff2') format('woff2'),
+      url('your-font.woff') format('woff'),
+      url('your-font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  } */
+
+@font-face {
+    font-family: 'LatoBlack';
+    src: url("./Lato-Black.woff");
+}
+        
+@font-face {
+    font-family: 'LatoBlackItalic';
+    src: url("./Lato-BlackItalic.woff");
+}
+
+@font-face {
+  font-family: 'LatoBold';
+  src: url("./Lato-Bold.woff");
+}
+      
+@font-face {
+  font-family: 'LatoBoldItalic';
+  src: url("./Lato-BoldItalic.woff");
+}
+        
+@font-face {
+    font-family: 'LatoItalic';
+    src: url("./Lato-Italic.woff");
+}
+        
+@font-face {
+    font-family: 'LatoRegular';
+    src: url("./Lato-Regular.woff");
+}
+
+@font-face {
+  font-family: 'LatoLight';
+  src: url("./Lato-Light.woff");
+}
+      
+@font-face {
+  font-family: 'LatoLightItalic';
+  src: url("./Lato-LightItalic.woff");
+}
+
+@font-face {
+  font-family: 'LatoThin';
+  src: url("./Lato-Thin.woff");
+}
+      
+@font-face {
+  font-family: 'LatoThinItalic';
+  src: url("./Lato-ThinItalic.woff");
+}
+
+@font-face {
+  font-family: 'Silom';
+  src: url("./silom.woff");
+}
+
+@font-face {
+  font-family: 'RubikRegular';
+  src: url("./rubik-v21-latin-regular.woff");
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url("./rubik-v21-latin-800.woff");
+}

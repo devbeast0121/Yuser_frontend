@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="url" transform="translate(-1 -1)">
+    <g id="Group_9023" data-name="Group 9023">
+      <path id="Path_6957" data-name="Path 6957" d="M11,6l2.575-2.575a5.011,5.011,0,0,1,7,0h0a5.011,5.011,0,0,1,0,7L18,13" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_6958" data-name="Path 6958" d="M13,18l-2.575,2.575a5.011,5.011,0,0,1-7,0h0a5.011,5.011,0,0,1,0-7L6,11" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_738" data-name="Line 738" y1="8" x2="8" transform="translate(8 8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

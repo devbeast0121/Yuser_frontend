@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.403" height="38.233" viewBox="0 0 28.403 38.233">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.647" y1="0.163" x2="0.759" y2="0.424" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#b4b4b4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_8434" data-name="Group 8434" transform="translate(-959.054 -352.363)">
+    <g id="padlock" transform="translate(962.623 352.363)">
+      <g id="Group_8427" data-name="Group 8427" transform="translate(0)">
+        <path id="Path_6690" data-name="Path 6690" d="M24.73,13.671V7.647A7.647,7.647,0,0,0,17.084,0C12.861,0,6.977,3.423,6.977,7.647v7.892C3.066,18.765,4.061,22.231,5.775,27A12.016,12.016,0,1,0,24.73,13.671Zm-7.248,14.47-.4,2.64H12.823V26.062A4.369,4.369,0,0,1,9.581,21.28c.277-2.183,6.088-3.751,8.288-3.751s3.294,2.559,3.572,4.742-1.827,5.32-3.958,5.87Zm2.281-13.6c-1.148-.59.414-3.28-1.172-3.523a11.679,11.679,0,0,0-6.97,1.226v-4.6c0-3.016-.337-3.165,2.68-3.165a5.462,5.462,0,0,1,5.462,5.462Z" transform="translate(-4.266)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="padlock-2" data-name="padlock" transform="translate(962.623 355.836)">
+      <g id="Group_8427-2" data-name="Group 8427" transform="translate(0 0)">
+        <path id="Path_6690-2" data-name="Path 6690" d="M24.73,13.377,20.367,16.7c0-4.223-2.929-13.552-6.066-13.522S6.977,3.13,6.977,7.353v7.892c-3.911,3.226-2.916,6.692-1.2,11.464A12.016,12.016,0,1,0,24.73,13.377ZM18.176,25.768V29.2L12.11,30.631V27.2a4.369,4.369,0,0,1-3.242-4.781c.277-2.183,6.016-5.25,8.216-5.25a4.369,4.369,0,0,1,1.092,8.6Zm1.587-11.519c-1.148-.59.414-3.28-1.172-3.523a11.679,11.679,0,0,0-6.97,1.226v-4.6c0-3.016-.337-3.165,2.68-3.165A5.462,5.462,0,0,1,19.763,9.65Z" transform="translate(-4.266 -3.179)" fill="#b4b4b4"/>
+      </g>
+    </g>
+    <g id="padlock-3" data-name="padlock" transform="translate(959.054 355.64)">
+      <g id="Group_8427-3" data-name="Group 8427" transform="translate(0)">
+        <path id="Path_6690-3" data-name="Path 6690" d="M24.663,13.671V7.647a7.647,7.647,0,1,0-15.293,0v6.024a12.016,12.016,0,1,0,15.293,0ZM18.108,26.062v3.432H15.924V26.062a4.369,4.369,0,1,1,2.185,0Zm4.369-13.816a11.946,11.946,0,0,0-10.924,0v-4.6a5.462,5.462,0,0,1,10.924,0Z" transform="translate(-4.999)" fill="#e2e2e2"/>
+      </g>
+    </g>
+  </g>
+</svg>
